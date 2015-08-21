@@ -12,7 +12,7 @@ public class App
         //TODO: auch duh!
         System.out.println( "Hello World!" );
     }
-    
+
     private String dupe1() {
         while(true) {
             System.out.println("1");
@@ -24,6 +24,7 @@ public class App
             System.out.println("7");
             break;
         }
+        return null;
     }
     
      private String dupe2() {
@@ -37,5 +38,6 @@ public class App
             System.out.println("7");
             break;
         }
-    }
+         return null;
+     }
 }
