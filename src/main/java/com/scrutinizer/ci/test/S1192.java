@@ -1,3 +1,5 @@
+package com.scrutinizer.ci.test;
+
 public class S1192 {
  private void doNothing() {
  String val1 = "CONSTANT";
